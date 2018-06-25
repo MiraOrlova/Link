@@ -54,4 +54,4 @@ app.post('/send1',function(req,res){
 
 
 app.listen(8080)
-console.log('Server run!');
+console.log('Run!');
